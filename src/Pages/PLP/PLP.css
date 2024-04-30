@@ -1,0 +1,10 @@
+.pokemon-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+h3{
+    margin-left: 10px;
+}

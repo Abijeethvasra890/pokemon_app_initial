@@ -1,0 +1,19 @@
+.table-container {
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 200px;
+  }
+  
+  .table-container td {
+    padding: 8px 100px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .table-container ul li {
+    text-align: center;
+  }
+
+
+  
