@@ -1,6 +1,7 @@
 {
     "rewrites": [
-        {"source": "/(.*)", "destination": "/"},
-        {"source": "/pokemons(.*)", "destination":"/pokemons"}
+        { "source": "/(.*)", "destination": "/index.html" }
+       // {"source": "/(.*)", "destination": "/"},
+        //{"source": "/pokemons(.*)", "destination":"/pokemons"}
     ]
 }
